@@ -1,0 +1,8 @@
+{
+  "name": "ChainPay",
+  "description": "Permissioned DLT Trade Finance & Automated Accounts Payable Proof of Concept with 3-Way Match, SHA-256 Double-Financing Protection, and Deep-Tier MSME Liquidity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

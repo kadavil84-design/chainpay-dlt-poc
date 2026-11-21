@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+export const CHAINPAY_SOLIDITY_CONTRACT = `// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 /**
@@ -270,3 +270,4 @@ contract ChainPaySettlement {
         return m >= c ? m : c;
     }
 }
+`;
