@@ -8,7 +8,7 @@
 
 ## 🚀 Launch Live Demo
 
-**[👉 Click Here to Open the Live ChainPay Web App](INSERT_YOUR_LIVE_DEMO_URL_HERE)**  
+**[👉 Click Here to Open the Live ChainPay Web App](https://chainpay.ai.studio/)**  
 *(Runs directly in the browser — no installation or login required.)*
 
 ---
